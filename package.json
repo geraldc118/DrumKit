@@ -1,0 +1,19 @@
+{
+  "name": "drum_kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geraldc118/DrumKit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geraldc118/DrumKit/issues"
+  },
+  "homepage": "https://github.com/geraldc118/DrumKit#readme"
+}
